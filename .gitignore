@@ -17,9 +17,9 @@ ENV/
 *.swo
 *~
 
-# Model files (uncomment if you want to exclude large model files from git)
-# model-state.bin
-# *.bin
+# Model files (excluded due to GitHub 100MB limit)
+model-state.bin
+*.bin
 
 # BERT model cache
 bert-base-uncased/
