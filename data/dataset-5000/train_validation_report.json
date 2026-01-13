@@ -1,0 +1,24 @@
+{
+  "total_entries": 5960,
+  "total_annotations": 579575,
+  "valid_annotations": 579575,
+  "invalid_annotations": 0,
+  "errors": [],
+  "error_types": {},
+  "entity_label_counts": {
+    "SKILL": 549465,
+    "EDUCATION": 3647,
+    "COMPANY": 506,
+    "DESIGNATION": 4290,
+    "OTHER": 10568,
+    "LOCATION": 4069,
+    "PERSON": 1322,
+    "EXPERIENCE": 3544,
+    "LANGUAGE": 159,
+    "CERTIFICATION": 122,
+    "EXPERTISE": 1045,
+    "COLLABORATION": 187,
+    "ACTION": 133,
+    "EMAIL": 518
+  }
+}
